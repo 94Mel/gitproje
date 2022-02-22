@@ -1,2 +1,2 @@
 # gitproje
-test
+Bu proje ortak yazılmıştır. Kopyalanmamalıdır..
